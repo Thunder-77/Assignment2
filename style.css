@@ -1,0 +1,20 @@
+body,html{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.board{
+    height: 200px;
+    width: 500px;
+    background-color: antiquewhite;
+    border:2px solid gray;
+}
+.quotes{
+    margin: 10px;
+}
+#btn{
+    margin-top: 10px;
+}
